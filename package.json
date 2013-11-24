@@ -1,0 +1,8 @@
+{
+  "name": "src-sockios",
+  "version": "0.1.0",
+  "description": "Wrappers for some ioctl",
+  "author": "Jacob Groundwater <groundwater@gmail.com>",
+  "license": "MIT",
+  "main": "sockios.js"
+}
