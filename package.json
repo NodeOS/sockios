@@ -4,5 +4,8 @@
   "description": "Wrappers for some ioctl",
   "author": "Jacob Groundwater <groundwater@gmail.com>",
   "license": "MIT",
-  "main": "sockios.js"
+  "main": "sockios.js",
+  "dependencies": {
+     "nan": "*"
+  }
 }
