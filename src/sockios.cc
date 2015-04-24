@@ -45,7 +45,7 @@ NAN_METHOD(GetFlags) {
   flags->Set( NanNew<String>("SIOCADDMULTI"), NanNew<Integer>(SIOCADDMULTI) );
   flags->Set( NanNew<String>("SIOCGIFTXQLEN"), NanNew<Integer>(SIOCGIFTXQLEN) );
   flags->Set( NanNew<String>("SIOCSIFTXQLEN"), NanNew<Integer>(SIOCSIFTXQLEN) );
-  flags->Set( NanNew<String>("SIOCSIFNAME"), NanNew<Integer>(SIOCSIFNAME) );
+//  flags->Set( NanNew<String>("SIOCSIFNAME"), NanNew<Integer>(SIOCSIFNAME) );
   flags->Set( NanNew<String>("SIOCGIFCONF"), NanNew<Integer>(SIOCGIFCONF) );
 
   NanReturnValue(flags);
