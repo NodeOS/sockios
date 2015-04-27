@@ -4,4 +4,4 @@ This module is indended to export system calls from `<sockios.h>` in order to co
 
 ## Warning
 
-This module is funtional, but far from polished.
+This module is functional, but far from polished.
