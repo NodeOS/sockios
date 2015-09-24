@@ -6,6 +6,6 @@
   "license": "MIT",
   "main": "sockios.js",
   "dependencies": {
-     "nan": "*"
+    "nan": "^2.0.9"
   }
 }
