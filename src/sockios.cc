@@ -2,6 +2,7 @@
 #include <sys/ioctl.h>
 #include <net/if.h>
 #include <net/route.h>
+#include <linux/sockios.h>
 #include <v8.h>
 #include <node.h>
 #include <unistd.h>
