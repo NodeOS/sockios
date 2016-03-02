@@ -1,6 +1,6 @@
 {
   "name": "src-sockios",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Wrappers for some ioctl",
   "author": "Jacob Groundwater <groundwater@gmail.com>",
   "license": "MIT",
